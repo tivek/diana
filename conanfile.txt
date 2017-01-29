@@ -1,0 +1,7 @@
+[requires]
+Boost/1.62.0@lasote/testing
+range-v3/latest@ericniebler/stable
+catch/1.3.0@TyRoXx/stable
+
+[generators]
+cmake
